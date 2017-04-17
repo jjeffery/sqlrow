@@ -8,8 +8,8 @@ Package `sqlrow` provides assistance in creating SQL statements.
 [![Coverage Status](https://coveralls.io/repos/github/jjeffery/sqlrow/badge.svg?branch=master)](https://coveralls.io/github/jjeffery/sqlrow?branch=master)
 [![GoReportCard](https://goreportcard.com/badge/github.com/jjeffery/sqlrow)](https://goreportcard.com/report/github.com/jjeffery/sqlrow)
 
-**NOTE:** This package is still a work in progress. The API is reasonably stable, but there is 
-no backwards compatibility guarantee at this time.
+**NOTE:** This package is no longer under development, and is retained here for backwards compatibility. The API underwent a series of
+breaking changes, and the package has been renamed to `sqlr`, and the repository has moved to https://github.com/jjeffery/sqlr.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
